@@ -1,0 +1,71 @@
+{
+  "name": "cordova-plugin-device",
+  "version": "0.3.0",
+  "description": "Cordova Device Plugin",
+  "cordova": {
+    "id": "org.apache.cordova.device",
+    "platforms": [
+      "firefoxos",
+      "tizen",
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "blackberry10",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-device.git"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+    "cordova-firefoxos",
+    "cordova-tizen",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-ios",
+    "cordova-blackberry10",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-windows",
+    "cordova-browser"
+  ],
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "license": "Apache 2.0",
+  "gitHead": "e12991a02529b236d481bc97588da27da24584ea",
+  "_id": "cordova-plugin-device@0.3.0",
+  "scripts": {},
+  "_shasum": "9b58d89d0d974509992fa35f8f949e41899234a0",
+  "_from": "cordova-plugin-device@0.3.0",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.10.36",
+  "_npmUser": {
+    "name": "stevegill",
+    "email": "stevengill97@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "9b58d89d0d974509992fa35f8f949e41899234a0",
+    "tarball": "http://registry.npmjs.org/cordova-plugin-device/-/cordova-plugin-device-0.3.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-device/-/cordova-plugin-device-0.3.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

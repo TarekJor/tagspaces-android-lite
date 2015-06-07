@@ -1,0 +1,74 @@
+{
+  "name": "cordova-plugin-inappbrowser",
+  "version": "0.6.0",
+  "description": "Cordova InAppBrowser Plugin",
+  "cordova": {
+    "id": "org.apache.cordova.inappbrowser",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "firefoxos"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git"
+  },
+  "keywords": [
+    "cordova",
+    "in",
+    "app",
+    "browser",
+    "inappbrowser",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-ios",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-windows",
+    "cordova-firefoxos"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.1.0"
+    }
+  ],
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "license": "Apache 2.0",
+  "gitHead": "90d41e87ce9b62f77766a859bc1552b7488ef82f",
+  "_id": "cordova-plugin-inappbrowser@0.6.0",
+  "scripts": {},
+  "_shasum": "e4275b41051e9a08e84a4a0fbe63ff6c0a6196bd",
+  "_from": "cordova-plugin-inappbrowser@0.6.0",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.10.36",
+  "_npmUser": {
+    "name": "stevegill",
+    "email": "stevengill97@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "e4275b41051e9a08e84a4a0fbe63ff6c0a6196bd",
+    "tarball": "http://registry.npmjs.org/cordova-plugin-inappbrowser/-/cordova-plugin-inappbrowser-0.6.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-inappbrowser/-/cordova-plugin-inappbrowser-0.6.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

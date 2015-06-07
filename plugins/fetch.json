@@ -1,0 +1,32 @@
+{
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "local",
+            "path": "/home/na/TagSpaces/builder/cordova/repo/node_modules/cordova-plugin-device"
+        }
+    },
+    "org.apache.cordova.file": {
+        "source": {
+            "type": "local",
+            "path": "/home/na/TagSpaces/builder/cordova/repo/node_modules/cordova-plugin-file"
+        }
+    },
+    "org.apache.cordova.inappbrowser": {
+        "source": {
+            "type": "local",
+            "path": "/home/na/TagSpaces/builder/cordova/repo/node_modules/cordova-plugin-inappbrowser"
+        }
+    },
+    "com.borismus.webintent": {
+        "source": {
+            "type": "local",
+            "path": "/home/na/TagSpaces/builder/cordova/repo/plugins/cordova-webintent"
+        }
+    },
+    "com.phonegap.plugins.fileopener": {
+        "source": {
+            "type": "local",
+            "path": "/home/na/TagSpaces/builder/cordova/repo/plugins/FileOpener"
+        }
+    }
+}
